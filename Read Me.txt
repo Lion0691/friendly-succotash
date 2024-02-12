@@ -1,0 +1,46 @@
+BATCH SOULS
+
+Choisissez le nom de votre personnage : blabla
+
+Premier boss : "BOSS1" 
+
+blabla 20 X 50 boss1
+
+Souhaitez-vous attaquer ou vous soigner? (A, S)
+
+Vous attaquez !
+Vous avez infligé 8 points de dégâts.
+
+blabla 20 X 42 boss1
+
+Votre ennemie attaque !
+Il vous inflige 2 points de dégâts.
+
+blabla 18 X 42 boss1
+
+Souhaitez-vous attaquer ou vous soigner? (A, S)
+
+Vous vous soignez !
+
+blabla 19 X 42 boss1
+
+!!! VICTOIRE !!!
+Vous obtenez 1 points de dégâts.
+Voulez-vous procéder au niveau suivant ou rester à ce niveau ? ( P, R)
+!!! DEFAITE !!!
+Vous perdez 1 points de dégâts. 
+Voulez-vous procéder au niveau suivant ou rester à ce niveau ? ( P, R)
+
+Deuxième boss : "BOSS2"
+
+REPEAT
+
+Troisième boss : "BOSS3"
+
+REPEAT
+
+FINAL BOSS " XXX "
+Choses à savoir :
+-On commence avec 20 hp, les 3 premiers bosses ont 50 hp, le dernier a 100 hp.
+-Pour les dégâts, on lance un dé qui va de 1 à 10, les bosses lancent un dé qui va de 1 à 5, le dé de soin va aussi de 1 à 5.
+-Pour chaque combat victorieux, on augment la valeur de notre dé de dégât de 1, pour chaque défaite, on réduit cette valeur de 1, min 10, pas de max.
